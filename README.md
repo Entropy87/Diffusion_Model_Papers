@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository contains a curated collection of references from my literature survey on **Diffusion Models in Computer Vision**. The survey explores the theoretical foundations, architectures, acceleration techniques, and applications of diffusion models.
+#### This repository contains a curated collection of references from my literature survey on **Diffusion Models in Computer Vision**. The survey explores the theoretical foundations, architectures, acceleration techniques, and applications of diffusion models.
 ---
 
 ## Table of Contents
