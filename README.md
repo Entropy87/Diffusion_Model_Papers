@@ -3,11 +3,6 @@
 ## About This Repository
 
 This repository contains a curated collection of references from my literature survey on **Diffusion Models in Computer Vision**. The survey explores the theoretical foundations, architectures, acceleration techniques, and applications of diffusion models.
-
-**Author:** Thamsanqa Mashinini  
-**Affiliation:** School of Computer Science and Applied Mathematics, University of the Witwatersrand  
-**Date:** 2025
-
 ---
 
 ## Table of Contents
@@ -270,18 +265,5 @@ Journal of Big Data 12(1):1–43
 **Key Contribution:** Demonstrated that diffusion models can memorize and extract training data, raising privacy and copyright concerns.
 
 ---
-
-## Citation
-
-If you use this collection in your research, please cite the original papers and consider citing this repository:
-
-```bibtex
-@misc{mashinini2025diffusion,
-  author = {Mashinini, Thamsanqa},
-  title = {Diffusion Models in Computer Vision: A Literature Survey},
-  year = {2025},
-  institution = {University of the Witwatersrand}
-}
-```
 
 ---
